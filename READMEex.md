@@ -1,35 +1,35 @@
-# README GEnerator
+# README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
-  * [Description](#descrition)
+  * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 ## Descrition
 
-creating a README generator to take user input and create a readme file for me
+creating a readme with the users input
 
 ## Installation
 
-git clone on my repo
+git clone from repo and node.js
 
 ## Usage
 
-type in your user inputs to generate readme
+to take user input and create a readme
 
 ## License
 MIT
 
 ## Contributing
 
-Shawn
+Shawn 
 
 ## Tests
 
